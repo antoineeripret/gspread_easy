@@ -1,4 +1,4 @@
-# Google Sheets Wrapper for Pyhton (by Antoine Eripret)
+# Google Sheets Wrapper for Python (by Antoine Eripret)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
