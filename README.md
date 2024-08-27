@@ -47,9 +47,9 @@ You can download the data from the Google Sheets document using the get_data_fro
 
 ```python 
 #method to get the data from the Google Sheets document
-data.get_data_from_googlesheet("Flight Airlines")
+client.get_data_from_googlesheet("Flight Airlines")
 #method to show the data downloaded from the Google Sheets document
-data.show_data()
+client.show_data()
 ```
 You can also override the data in the Google Sheets document using the override_data_in_googlesheet method:
 ```python 
@@ -57,5 +57,5 @@ You can also override the data in the Google Sheets document using the override_
 #if you don't give a dataframe, the data will be the one downloaded from the Google Sheets document
 #stored in the GoogleSheetClient object (self.df) 
 #The first parameter is the name of the sheet you want to override
-data.override_data_in_googlesheet("Data", df)
+client.override_data_in_googlesheet("Data", df)
 ```
