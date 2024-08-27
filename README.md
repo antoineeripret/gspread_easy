@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Package purpose and content
-gspreadeasy is a wrapper around the gspread library to interact with Google Sheets. It provides an easy way to download, manipulate and upload data to Google Sheets. It is based on the gspread library, but it aims at providing a more user-friendly interface to interact with Google Sheets.
+`gspreadeasy` is a wrapper around the gspread library to interact with Google Sheets. It provides an easy way to download, manipulate and upload data to Google Sheets. It is based on the gspread library, but it aims at providing a more user-friendly interface to interact with Google Sheets.
 
 ## Installation Instructions
 First, install the package using:
